@@ -1,6 +1,6 @@
 package main
 
-import "RedrockHomework/week3/lv2"
+import "RedrockHomework/lesson3/lv2"
 
 func main() {
 
